@@ -1,0 +1,572 @@
+{
+    "version": "0.4",
+    "title": "Block &#8211; Team 3 Columns",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-team",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "6a1d307c",
+            "settings": {
+                "structure": "30",
+                "padding": {
+                    "unit": "em",
+                    "top": "4",
+                    "right": "0",
+                    "bottom": "4",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "345ff37e",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "space_between_widgets": 10,
+                        "background_background": "classic",
+                        "background_color": "#FFFFFF",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "box_shadow_box_shadow_type": "yes",
+                        "box_shadow_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 7,
+                            "blur": 40,
+                            "spread": 2,
+                            "color": "rgba(18, 21, 154, 0.1)"
+                        },
+                        "box_shadow_hover_box_shadow_type": "yes",
+                        "box_shadow_hover_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 15,
+                            "blur": 40,
+                            "spread": 2,
+                            "color": "rgba(18, 21, 154, 0.15)"
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "19039f2c",
+                            "settings": {
+                                "eael_team_member_image": {
+                                    "url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/0O1A3179.jpeg",
+                                    "id": 360
+                                },
+                                "thumbnail_size": "tk_preview",
+                                "eael_team_member_name": "Bobby Doe",
+                                "eael_team_member_job_title": "CEO Founder",
+                                "eael_team_member_description": "",
+                                "eael_team_member_social_profile_links": [
+                                    {
+                                        "social_new": {
+                                            "value": "fab fa-facebook-f",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "5415861",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true"
+                                        }
+                                    },
+                                    {
+                                        "social_new": {
+                                            "value": "fab fa-twitter",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "bb9b3ad",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true"
+                                        }
+                                    },
+                                    {
+                                        "social_new": {
+                                            "value": "fab fa-instagram",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "7ce8dd2",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true"
+                                        }
+                                    },
+                                    {
+                                        "social_new": {
+                                            "value": "fab fa-linkedin-in",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "5ccdcd3",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true"
+                                        }
+                                    }
+                                ],
+                                "content_card_height": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "eael_team_members_alignment": "centered",
+                                "eael_team_members_padding": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "eael_team_members_name_color": "#404757",
+                                "eael_team_members_name_typography_typography": "custom",
+                                "eael_team_members_name_typography_font_family": "Poppins",
+                                "eael_team_members_name_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "eael_team_members_name_typography_text_transform": "none",
+                                "eael_team_members_position_color": "#858A96",
+                                "eael_team_members_position_typography_typography": "custom",
+                                "eael_team_members_position_typography_font_family": "Muli",
+                                "eael_team_members_position_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 11,
+                                    "sizes": []
+                                },
+                                "eael_team_members_position_typography_font_weight": "400",
+                                "eael_team_members_position_typography_text_transform": "uppercase",
+                                "eael_team_members_social_icon_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "eael_team_members_social_icon_color": "#858A96",
+                                "eael_team_members_social_icon_typography_typography": "custom",
+                                "eael_team_members_social_icon_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "eael_team_members_social_icon_hover_color": "#FF8264",
+                                "eael_team_members_border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "eael-team-member",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "7f7b55f5",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "space_between_widgets": 10,
+                        "background_background": "classic",
+                        "background_color": "#FFFFFF",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "box_shadow_box_shadow_type": "yes",
+                        "box_shadow_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 7,
+                            "blur": 40,
+                            "spread": 2,
+                            "color": "rgba(18, 21, 154, 0.1)"
+                        },
+                        "box_shadow_hover_box_shadow_type": "yes",
+                        "box_shadow_hover_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 15,
+                            "blur": 40,
+                            "spread": 2,
+                            "color": "rgba(18, 21, 154, 0.15)"
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "7d69fce2",
+                            "settings": {
+                                "eael_team_member_image": {
+                                    "url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/AF8B8222.jpeg",
+                                    "id": 371
+                                },
+                                "thumbnail_size": "tk_preview",
+                                "eael_team_member_name": "Jane Doe",
+                                "eael_team_member_job_title": "UI\/UX Designer",
+                                "eael_team_member_description": "",
+                                "eael_team_member_social_profile_links": [
+                                    {
+                                        "social_new": {
+                                            "value": "fab fa-facebook-f",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "5415861",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true"
+                                        }
+                                    },
+                                    {
+                                        "social_new": {
+                                            "value": "fab fa-twitter",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "bb9b3ad",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true"
+                                        }
+                                    },
+                                    {
+                                        "social_new": {
+                                            "value": "fab fa-instagram",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "7ce8dd2",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true"
+                                        }
+                                    },
+                                    {
+                                        "social_new": {
+                                            "value": "fab fa-linkedin-in",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "5ccdcd3",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true"
+                                        }
+                                    }
+                                ],
+                                "content_card_height": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "eael_team_members_alignment": "centered",
+                                "eael_team_members_padding": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "eael_team_members_name_color": "#404757",
+                                "eael_team_members_name_typography_typography": "custom",
+                                "eael_team_members_name_typography_font_family": "Poppins",
+                                "eael_team_members_name_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "eael_team_members_name_typography_text_transform": "none",
+                                "eael_team_members_position_color": "#858A96",
+                                "eael_team_members_position_typography_typography": "custom",
+                                "eael_team_members_position_typography_font_family": "Muli",
+                                "eael_team_members_position_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 11,
+                                    "sizes": []
+                                },
+                                "eael_team_members_position_typography_font_weight": "400",
+                                "eael_team_members_position_typography_text_transform": "uppercase",
+                                "eael_team_members_social_icon_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "eael_team_members_social_icon_color": "#858A96",
+                                "eael_team_members_social_icon_typography_typography": "custom",
+                                "eael_team_members_social_icon_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "eael_team_members_social_icon_hover_color": "#FF8264",
+                                "eael_team_members_border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "eael-team-member",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "500fa6c2",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "space_between_widgets": 10,
+                        "background_background": "classic",
+                        "background_color": "#FFFFFF",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "20",
+                            "bottom": "20",
+                            "left": "20",
+                            "isLinked": true
+                        },
+                        "box_shadow_box_shadow_type": "yes",
+                        "box_shadow_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 7,
+                            "blur": 40,
+                            "spread": 2,
+                            "color": "rgba(18, 21, 154, 0.1)"
+                        },
+                        "box_shadow_hover_box_shadow_type": "yes",
+                        "box_shadow_hover_box_shadow": {
+                            "horizontal": 0,
+                            "vertical": 15,
+                            "blur": 40,
+                            "spread": 2,
+                            "color": "rgba(18, 21, 154, 0.15)"
+                        },
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "10",
+                            "right": "10",
+                            "bottom": "10",
+                            "left": "10",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "191442bd",
+                            "settings": {
+                                "eael_team_member_image": {
+                                    "url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/0O1A0046.jpg",
+                                    "id": 372
+                                },
+                                "thumbnail_size": "tk_preview",
+                                "eael_team_member_name": "Richard Doe",
+                                "eael_team_member_job_title": "Software Engineer",
+                                "eael_team_member_description": "",
+                                "eael_team_member_social_profile_links": [
+                                    {
+                                        "social_new": {
+                                            "value": "fab fa-facebook-f",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "5415861",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true"
+                                        }
+                                    },
+                                    {
+                                        "social_new": {
+                                            "value": "fab fa-twitter",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "bb9b3ad",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true"
+                                        }
+                                    },
+                                    {
+                                        "social_new": {
+                                            "value": "fab fa-instagram",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "7ce8dd2",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true"
+                                        }
+                                    },
+                                    {
+                                        "social_new": {
+                                            "value": "fab fa-linkedin-in",
+                                            "library": "fa-brands"
+                                        },
+                                        "_id": "5ccdcd3",
+                                        "link": {
+                                            "url": "",
+                                            "is_external": "true"
+                                        }
+                                    }
+                                ],
+                                "content_card_height": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "eael_team_members_alignment": "centered",
+                                "eael_team_members_padding": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "eael_team_members_name_color": "#404757",
+                                "eael_team_members_name_typography_typography": "custom",
+                                "eael_team_members_name_typography_font_family": "Poppins",
+                                "eael_team_members_name_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "eael_team_members_name_typography_text_transform": "none",
+                                "eael_team_members_position_color": "#858A96",
+                                "eael_team_members_position_typography_typography": "custom",
+                                "eael_team_members_position_typography_font_family": "Muli",
+                                "eael_team_members_position_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 11,
+                                    "sizes": []
+                                },
+                                "eael_team_members_position_typography_font_weight": "400",
+                                "eael_team_members_position_typography_text_transform": "uppercase",
+                                "eael_team_members_social_icon_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "eael_team_members_social_icon_color": "#858A96",
+                                "eael_team_members_social_icon_typography_typography": "custom",
+                                "eael_team_members_social_icon_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "eael_team_members_social_icon_hover_color": "#FF8264",
+                                "eael_team_members_border_radius": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "15",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "eael-team-member",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Content",
+        "template": "elementor_canvas"
+    }
+}

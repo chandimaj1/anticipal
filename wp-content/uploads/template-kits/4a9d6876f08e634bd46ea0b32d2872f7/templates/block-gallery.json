@@ -1,0 +1,92 @@
+{
+    "version": "0.4",
+    "title": "Block &#8211; Gallery",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-gallery",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "1eff6167",
+            "settings": {
+                "overflow": "hidden"
+            },
+            "elements": [
+                {
+                    "id": "6b041963",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "space_between_widgets": 0
+                    },
+                    "elements": [
+                        {
+                            "id": "bd28d9",
+                            "settings": {
+                                "wp_gallery": [
+                                    {
+                                        "id": 635,
+                                        "url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/3.jpeg"
+                                    },
+                                    {
+                                        "id": 637,
+                                        "url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/5.jpeg"
+                                    },
+                                    {
+                                        "id": 643,
+                                        "url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/2.jpeg"
+                                    },
+                                    {
+                                        "id": 645,
+                                        "url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/6.jpeg"
+                                    },
+                                    {
+                                        "id": 647,
+                                        "url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/1.jpeg"
+                                    },
+                                    {
+                                        "id": 649,
+                                        "url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/4.jpeg"
+                                    }
+                                ],
+                                "thumbnail_size": "full",
+                                "gallery_columns": "3",
+                                "open_lightbox": "yes",
+                                "image_spacing": "custom",
+                                "image_spacing_custom": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "image_border_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "gallery_display_caption": "none"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image-gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Content",
+        "template": "elementor_canvas"
+    }
+}

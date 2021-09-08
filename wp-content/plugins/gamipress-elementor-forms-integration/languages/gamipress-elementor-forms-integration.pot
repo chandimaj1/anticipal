@@ -1,0 +1,89 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GamiPress Elementor Forms Integration\n"
+"Report-Msgid-Bugs-To: https://gamipress.com/\n"
+"POT-Creation-Date: 2021-02-18 17:06+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: GamiPress (https://gamipress.com/)\n"
+"Language-Team: GamiPress <contact@gamipress.com>\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: gamipress-elementor-forms.php:136
+#, php-format
+msgid "GamiPress - Elementor Forms integration requires %s and %s in order to work. Please install and activate them."
+msgstr ""
+
+#: includes/admin.php:22
+msgid "Elementor Forms integration"
+msgstr ""
+
+#: includes/requirements.php:60 includes/triggers.php:160
+msgid "Form name"
+msgstr ""
+
+#: includes/requirements.php:61 includes/triggers.php:166
+msgid "Field name"
+msgstr ""
+
+#: includes/requirements.php:62 includes/triggers.php:172
+msgid "Field value"
+msgstr ""
+
+#: includes/triggers.php:22
+msgid "Elementor Forms"
+msgstr ""
+
+#: includes/triggers.php:23
+msgid "Successful submit a form"
+msgstr ""
+
+#: includes/triggers.php:24
+msgid "Successful submit a specific form"
+msgstr ""
+
+#: includes/triggers.php:25
+msgid "Submit a specific field value"
+msgstr ""
+
+#: includes/triggers.php:26
+msgid "Submit a specific field value on a specific form"
+msgstr ""
+
+#: includes/triggers.php:55
+#, php-format
+msgid "Submit %s form"
+msgstr ""
+
+#: includes/triggers.php:59
+#, php-format
+msgid "Submit a form setting field \"%s\" to \"%s\" value"
+msgstr ""
+
+#: includes/triggers.php:63
+#, php-format
+msgid "Submit %s form setting field \"%s\" to \"%s\" value"
+msgstr ""
+
+#: includes/triggers.php:161
+msgid "The submitted form name."
+msgstr ""
+
+#: includes/triggers.php:167
+msgid "Field name attached to this log."
+msgstr ""
+
+#: includes/triggers.php:173
+msgid "Field value attached to this log."
+msgstr ""

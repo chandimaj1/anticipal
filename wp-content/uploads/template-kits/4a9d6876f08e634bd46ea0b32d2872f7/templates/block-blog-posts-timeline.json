@@ -1,0 +1,91 @@
+{
+    "version": "0.4",
+    "title": "Block &#8211; Blog Posts Timeline",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "27f3a2e6",
+            "settings": [],
+            "elements": [
+                {
+                    "id": "6a91f774",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "space_between_widgets": 0
+                    },
+                    "elements": [
+                        {
+                            "id": "13911ca3",
+                            "settings": {
+                                "posts_per_page": 6,
+                                "show_load_more": "yes",
+                                "show_load_more_text": "Load More",
+                                "image_size": "tk_preview",
+                                "excerpt_expanison_indicator": "...",
+                                "eael_read_more_text": "Read More",
+                                "eael_timeline_overlay_color": "#404757",
+                                "eael_timeline_bullet_color": "#FF8264",
+                                "eael_timeline_vertical_line_color": "#FFE5DE",
+                                "eael_timeline_border_color": "#FFE5DE",
+                                "eael_timeline_date_background_color": "#FF8264",
+                                "eael_timeline_title_alignment": "center",
+                                "eael_timeline_title_typography_typography": "custom",
+                                "eael_timeline_title_typography_font_family": "Poppins",
+                                "eael_timeline_title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 28,
+                                    "sizes": []
+                                },
+                                "eael_timeline_title_typography_font_weight": "700",
+                                "eael_timeline_title_typography_text_transform": "none",
+                                "eael_timeline_title_typography_line_height": {
+                                    "unit": "px",
+                                    "size": 32,
+                                    "sizes": []
+                                },
+                                "eael_timeline_excerpt_alignment": "center",
+                                "eael_timeline_excerpt_typography_typography": "custom",
+                                "eael_timeline_excerpt_typography_font_family": "Muli",
+                                "eael_timeline_excerpt_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "eael_timeline_excerpt_typography_font_weight": "400",
+                                "eael_post_grid_load_more_btn_padding": {
+                                    "unit": "px",
+                                    "top": "15",
+                                    "right": "30",
+                                    "bottom": "15",
+                                    "left": "30",
+                                    "isLinked": false
+                                },
+                                "eael_cta_btn_normal_bg_color": "#FF8264",
+                                "eael_post_grid_load_more_btn_hover_bg_color": "#FF8264"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "eael-post-timeline",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Content",
+        "template": "elementor_canvas"
+    }
+}

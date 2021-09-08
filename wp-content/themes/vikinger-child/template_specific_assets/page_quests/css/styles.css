@@ -1,0 +1,19 @@
+/*
+*   template-parts/achievement-item-box
+*/
+
+/*
+    Cover Image Parent and Img
+*/
+.achievement-item-image-cover {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 130px;
+    overflow: hidden;
+    border-radius: 10px 10px 0 0;
+}
+
+    .achievement-item-image-cover .achievement-item-box-image {
+        width: 100%;
+    }

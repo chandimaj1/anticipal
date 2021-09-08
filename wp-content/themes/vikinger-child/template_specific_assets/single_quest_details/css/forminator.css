@@ -1,0 +1,197 @@
+
+/**
+    CSS Overrides for forminator forms
+*/
+
+.forminator-ui * {
+    font-family: Rajdhani,sans-serif !important;
+}
+
+.forminator-ui input[type=password], 
+.forminator-ui input[type=text], 
+.forminator-ui input[type=email], 
+.forminator-ui input[type=number], 
+.forminator-ui input[type=url], 
+.forminator-ui select, 
+.forminator-ui textarea {
+    background-color: #fff !important;
+    border: 1px solid #dedeea !important;
+    color: #3e3f5e !important;
+    transition: border-color .2s ease-in-out !important;
+    border-radius: 12px !important;
+    padding: auto 18px !important;
+    padding-left: 20px !important;
+}
+
+.forminator-ui button, 
+.forminator-ui input[type=password], 
+.forminator-ui input[type=text], 
+.forminator-ui input[type=email], 
+.forminator-ui input[type=number],
+.forminator-ui input[type=url],
+.forminator-ui select, 
+.forminator-ui textarea {
+    width: 100% !important;
+    border-radius: 12px !important;
+    font-size: 1rem !important;
+    font-weight: 700 !important;
+    font-size: .875rem !important;
+    height: 48px !important;
+}
+.forminator-ui input[type=password]::placeholder, 
+.forminator-ui input[type=text]::placeholder, 
+.forminator-ui input[type=email]::placeholder, 
+.forminator-ui input[type=url]::placeholder, 
+.forminator-ui input[type=number]::placeholder{
+    font-size: 1rem !important;
+    font-weight: 700 !important;
+    font-size: .875rem !important;
+    opacity: 0;
+}
+
+.forminator-is_active input[type=password]::placeholder, 
+.forminator-is_active input[type=text]::placeholder, 
+.forminator-is_active input[type=email]::placeholder, 
+.forminator-is_active input[type=number]::placeholder,
+.forminator-is_active input[type=url]::placeholder{
+    opacity: 1;
+}
+
+.forminator-button-upload {
+    width: auto !important;
+    background-color: #615dfa !important;
+    box-shadow: 4px 7px 12px 0 rgb(97 93 250 / 20%) !important;
+    font-weight: 900 !important;
+    border-radius: 12px !important;
+}
+
+.forminator-file-upload,
+.forminator-multi-upload{
+    padding-top: 45px !important;
+}
+
+.forminator-is_active input[type=password], 
+.forminator-is_active input[type=text], 
+.forminator-is_active input[type=email], 
+.forminator-is_active input[type=number], 
+.forminator-is_active input[type=url], 
+.forminator-is_active select, 
+.forminator-is_active textarea,
+.forminator-is_active .forminator-textarea--wrap:after{
+    border-color: #615dfa !important;
+}
+.forminator-is_hover .forminator-textarea--wrap:after{
+    display: none;
+}
+
+
+.forminator-input--wrap:after{
+    display: none !important;
+}
+
+
+.forminator-label {
+    color: #adafca !important;
+    font-size: 1rem !important;
+    font-weight: 600 !important;
+    position: absolute !important;
+    top: 16px !important;
+    left: 20px !important;
+    transition: all .3s ease-in-out !important;
+    pointer-events: none !important;
+    line-height: 1em !important;
+
+    z-index: 1;
+}
+
+
+.forminator-is_active .forminator-label,
+.forminator-is_filled .forminator-label,
+.forminator-col[data-select2-id]>.forminator-field>.forminator-label{
+    background-color: #fff !important;
+    padding: 0 6px !important;
+    font-size: .75rem !important;
+    -webkit-transform: translateY(0) !important;
+    transform: translateY(0) !important;
+    top: -10px !important;
+    left: 14px !important;
+    z-index: 1 !important;
+}
+
+.forminator-field{
+    position: relative !important;
+}
+
+.forminator-floating--input{
+    -webkit-transform: translateY(0) !important;
+    transform: translateY(0) !important;
+}
+
+.forminator-select .select2-selection{
+    font-size: 1rem !important;
+    font-weight: 600 !important;
+    border: 1px solid #dedeea !important;
+    color: #3e3f5e !important;
+    border-radius: 12px !important;
+    background-color: #fff !important;
+    height: 48px !important;
+}
+
+.forminator-is_active .select2-selection{
+    border-color: #615dfa !important;
+}
+
+.forminator-select .select2-selection__rendered{
+    color: #3e3f5e !important;
+    font-size: 1rem !important;
+    font-weight: 700 !important;
+    font-size: .875rem !important;
+}
+
+.forminator-datepicker{
+    padding-left: 40px !important;
+}
+
+.forminator-input-with-icon>label>span{
+    right:10px !important;
+    left: auto !important;
+}
+
+.forminator-field[role=group],
+.forminator-field[role=radiogroup]{
+    padding-top: 44px !important;
+}
+
+.forminator-multi-upload{
+    background-color: #fff !important;
+    border-radius: 12px !important;
+    border: 1px dashed #dedeea !important;
+}
+.forminator-file-upload{
+    background-color: #fefefe !important;
+    border-radius: 12px !important;
+    border: 1px dashed #dedeea !important;
+    padding:10px !important;
+    padding-top: 44px !important;
+    padding-bottom: 25px !important;
+    position: relative !important;
+}
+
+.forminator-ui button:hover{
+    background-color: #5753e4 !important;
+}
+
+
+.forminator-file-upload span[data-empty-text="No file chosen"]{
+    position: absolute !important;
+    bottom: 5px !important;
+    left: 20px !important;
+    color: #adafca !important;
+}
+
+.forminator-ui .forminator-button-delete {
+    width: 50px !important;
+}
+.forminator-ui .forminator-button-delete:hover{
+    background-color: #dedeea !important;
+}

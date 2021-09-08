@@ -1,0 +1,35 @@
+
+# BEGIN Press Permit
+<files .htaccess>
+order allow,deny
+deny from all
+</files>
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /wp-content/uploads/
+
+RewriteCond %{REQUEST_URI} ^(.*)/2021/07/3(|-[0-9]{2,4}x[0-9]{2,4})\.jpg$ [NC]
+RewriteCond %{QUERY_STRING} !^(.*)rs_file_key=616563016610abb9de578d317987649(.*)
+RewriteRule ^(.*) /index.php?attachment=$1&pp_rewrite=1 [NC,L]
+RewriteCond %{REQUEST_URI} ^(.*)/2021/07/georganics-001(|-[0-9]{2,4}x[0-9]{2,4})\.jpg$ [NC]
+RewriteCond %{QUERY_STRING} !^(.*)rs_file_key=655837097610abb9de6282113277450(.*)
+RewriteRule ^(.*) /index.php?attachment=$1&pp_rewrite=1 [NC,L]
+RewriteCond %{REQUEST_URI} ^(.*)/2021/07/5(|-[0-9]{2,4}x[0-9]{2,4})\.jpg$ [NC]
+RewriteCond %{QUERY_STRING} !^(.*)rs_file_key=614162792610abb9de6a33734515734(.*)
+RewriteRule ^(.*) /index.php?attachment=$1&pp_rewrite=1 [NC,L]
+RewriteCond %{REQUEST_URI} ^(.*)/2021/07/1-2(|-[0-9]{2,4}x[0-9]{2,4})\.jpg$ [NC]
+RewriteCond %{QUERY_STRING} !^(.*)rs_file_key=1858120178610abb9de6e99922259383(.*)
+RewriteRule ^(.*) /index.php?attachment=$1&pp_rewrite=1 [NC,L]
+RewriteCond %{REQUEST_URI} ^(.*)/2021/08/woocommerce-sample-products-1\.csv$ [NC]
+RewriteCond %{QUERY_STRING} !^(.*)rs_file_key=1995146380610abb9de7669505922506(.*)
+RewriteRule ^(.*) /index.php?attachment=$1&pp_rewrite=1 [NC,L]
+RewriteCond %{REQUEST_URI} ^(.*)/2021/08/woocommerce-sample-products\.csv$ [NC]
+RewriteCond %{QUERY_STRING} !^(.*)rs_file_key=292651947610abb9de7b0b431445229(.*)
+RewriteRule ^(.*) /index.php?attachment=$1&pp_rewrite=1 [NC,L]
+RewriteCond %{REQUEST_URI} ^(.*)/2021/06/wc-product-export-2-6-2021-1622646564129\.csv$ [NC]
+RewriteCond %{QUERY_STRING} !^(.*)rs_file_key=2005909473610abb9de833b943054743(.*)
+RewriteRule ^(.*) /index.php?attachment=$1&pp_rewrite=1 [NC,L]
+</IfModule>
+
+# END Press Permit

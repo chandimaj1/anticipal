@@ -1,0 +1,1115 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "SaaSy",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/default-kit.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Archive - Blog Timeline",
+            "screenshot": "screenshots\/archive-blog-timeline.jpg",
+            "source": "templates\/archive-blog-timeline.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/archive-blog-timeline\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - FAQ Alternative",
+            "screenshot": "screenshots\/block-faq-alternative.jpg",
+            "source": "templates\/block-faq-alternative.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-faq-alternative\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Blog Posts Timeline",
+            "screenshot": "screenshots\/block-blog-posts-timeline.jpg",
+            "source": "templates\/block-blog-posts-timeline.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-blog-posts-timeline\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Blog Posts Grid",
+            "screenshot": "screenshots\/block-blog-posts-grid.jpg",
+            "source": "templates\/block-blog-posts-grid.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-blog-posts-grid\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Team 3 Columns",
+            "screenshot": "screenshots\/block-team-3-columns.jpg",
+            "source": "templates\/block-team-3-columns.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-team-3-columns\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Testimonials Simple",
+            "screenshot": "screenshots\/block-testimonials-simple.jpg",
+            "source": "templates\/block-testimonials-simple.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-testimonials-simple\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Team 4 Columns",
+            "screenshot": "screenshots\/block-team-4-columns.jpg",
+            "source": "templates\/block-team-4-columns.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-team-4-columns\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Facts",
+            "screenshot": "screenshots\/block-facts.jpg",
+            "source": "templates\/block-facts.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-facts\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-countdown",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Services 3 Columns",
+            "screenshot": "screenshots\/block-services-3-columns.jpg",
+            "source": "templates\/block-services-3-columns.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-services-3-columns\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - About",
+            "screenshot": "screenshots\/block-about.jpg",
+            "source": "templates\/block-about.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-about\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-about",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Page Header",
+            "screenshot": "screenshots\/block-page-header.jpg",
+            "source": "templates\/block-page-header.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-page-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - Gallery",
+            "screenshot": "screenshots\/page-gallery.jpg",
+            "source": "templates\/page-gallery.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/page-gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - Contact",
+            "screenshot": "screenshots\/page-contact.jpg",
+            "source": "templates\/page-contact.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/page-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - FAQ",
+            "screenshot": "screenshots\/page-faq.jpg",
+            "source": "templates\/page-faq.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/page-faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Archive - Blog Grid",
+            "screenshot": "screenshots\/archive-blog-grid.jpg",
+            "source": "templates\/archive-blog-grid.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/archive-blog-grid\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Footer",
+            "screenshot": "screenshots\/block-footer.jpg",
+            "source": "templates\/block-footer.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Gallery",
+            "screenshot": "screenshots\/block-gallery.jpg",
+            "source": "templates\/block-gallery.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-gallery\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-gallery",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Contact Form",
+            "screenshot": "screenshots\/block-contact-form.jpg",
+            "source": "templates\/block-contact-form.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Features",
+            "screenshot": "screenshots\/block-features.jpg",
+            "source": "templates\/block-features.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-features\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Video",
+            "screenshot": "screenshots\/block-video.jpg",
+            "source": "templates\/block-video.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-video\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - About",
+            "screenshot": "screenshots\/page-about.jpg",
+            "source": "templates\/page-about.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/page-about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - Home",
+            "screenshot": "screenshots\/page-home.jpg",
+            "source": "templates\/page-home.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/page-home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Header",
+            "screenshot": "screenshots\/block-header.jpg",
+            "source": "templates\/block-header.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Hero",
+            "screenshot": "screenshots\/block-hero.jpg",
+            "source": "templates\/block-hero.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-hero\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Logos",
+            "screenshot": "screenshots\/block-logos.jpg",
+            "source": "templates\/block-logos.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-logos\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-logo-grid",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Section Header",
+            "screenshot": "screenshots\/block-section-header.jpg",
+            "source": "templates\/block-section-header.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-section-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - Services",
+            "screenshot": "screenshots\/page-services.jpg",
+            "source": "templates\/page-services.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/page-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - Prices",
+            "screenshot": "screenshots\/page-prices.jpg",
+            "source": "templates\/page-prices.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/page-prices\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Feature Large 1",
+            "screenshot": "screenshots\/block-feature-large-1.jpg",
+            "source": "templates\/block-feature-large-1.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-feature-large-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Feature Large 2",
+            "screenshot": "screenshots\/block-feature-large-2.jpg",
+            "source": "templates\/block-feature-large-2.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-feature-large-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Pricing Tables",
+            "screenshot": "screenshots\/block-pricing-tables.jpg",
+            "source": "templates\/block-pricing-tables.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-pricing-tables\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Testimonials",
+            "screenshot": "screenshots\/block-testimonials.jpg",
+            "source": "templates\/block-testimonials.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-testimonials\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - FAQ",
+            "screenshot": "screenshots\/block-faq.jpg",
+            "source": "templates\/block-faq.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-faq\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Call to Action",
+            "screenshot": "screenshots\/block-call-to-action.jpg",
+            "source": "templates\/block-call-to-action.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-call-to-action\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - Team",
+            "screenshot": "screenshots\/page-team.jpg",
+            "source": "templates\/page-team.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/page-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Contact Info",
+            "screenshot": "screenshots\/block-contact-info.jpg",
+            "source": "templates\/block-contact-info.json",
+            "preview_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/template-kit\/block-contact-info\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "5.1.7",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        },
+        {
+            "name": "Elementor",
+            "version": "2.9.7",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "1.5.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Essential Addons for Elementor",
+            "version": "3.9.1",
+            "file": "essential-addons-for-elementor-lite\/essential_adons_elementor.php",
+            "author": "WPDeveloper"
+        }
+    ],
+    "images": [
+        {
+            "filename": "site-logo.png",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/site-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/archive-blog-timeline.json",
+                    "name": "Archive - Blog Timeline"
+                },
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page - Gallery"
+                },
+                {
+                    "source": "templates\/page-contact.json",
+                    "name": "Page - Contact"
+                },
+                {
+                    "source": "templates\/page-faq.json",
+                    "name": "Page - FAQ"
+                },
+                {
+                    "source": "templates\/archive-blog-grid.json",
+                    "name": "Archive - Blog Grid"
+                },
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-header.json",
+                    "name": "Block - Header"
+                },
+                {
+                    "source": "templates\/page-services.json",
+                    "name": "Page - Services"
+                },
+                {
+                    "source": "templates\/page-prices.json",
+                    "name": "Page - Prices"
+                },
+                {
+                    "source": "templates\/page-team.json",
+                    "name": "Page - Team"
+                }
+            ],
+            "filesize": 5397,
+            "dimensions": [
+                150,
+                43
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/site-logo.png"
+        },
+        {
+            "filename": "overview-2-min.png",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/overview-2-min-600x531.png",
+            "templates": [
+                {
+                    "source": "templates\/block-faq-alternative.json",
+                    "name": "Block - FAQ Alternative"
+                },
+                {
+                    "source": "templates\/page-faq.json",
+                    "name": "Page - FAQ"
+                },
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-feature-large-2.json",
+                    "name": "Block - Feature Large 2"
+                }
+            ],
+            "filesize": 94525,
+            "dimensions": [
+                1250,
+                1106
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/overview-2-min.png"
+        },
+        {
+            "filename": "0O1A3179.jpeg",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/0O1A3179-600x400.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/block-team-3-columns.json",
+                    "name": "Block - Team 3 Columns"
+                },
+                {
+                    "source": "templates\/block-team-4-columns.json",
+                    "name": "Block - Team 4 Columns"
+                },
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-team.json",
+                    "name": "Page - Team"
+                }
+            ],
+            "filesize": 131777,
+            "dimensions": [
+                1600,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/thoughtful-african-american-man-reading-sitting-P2HQCHS"
+        },
+        {
+            "filename": "AF8B8222.jpeg",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/AF8B8222-600x400.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/block-team-3-columns.json",
+                    "name": "Block - Team 3 Columns"
+                },
+                {
+                    "source": "templates\/block-team-4-columns.json",
+                    "name": "Block - Team 4 Columns"
+                },
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-team.json",
+                    "name": "Page - Team"
+                }
+            ],
+            "filesize": 98439,
+            "dimensions": [
+                1600,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/businesswoman-talking-on-the-phone-in-office-P2J6S5A"
+        },
+        {
+            "filename": "0O1A0046.jpg",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/0O1A0046-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-team-3-columns.json",
+                    "name": "Block - Team 3 Columns"
+                },
+                {
+                    "source": "templates\/block-team-4-columns.json",
+                    "name": "Block - Team 4 Columns"
+                },
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-team.json",
+                    "name": "Page - Team"
+                }
+            ],
+            "filesize": 150609,
+            "dimensions": [
+                1600,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-handsome-bearded-male-in-glasses-using-PBQB4C8"
+        },
+        {
+            "filename": "0O1A2848.jpg",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/0O1A2848-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/block-team-4-columns.json",
+                    "name": "Block - Team 4 Columns"
+                },
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-team.json",
+                    "name": "Page - Team"
+                }
+            ],
+            "filesize": 133374,
+            "dimensions": [
+                1600,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-woman-using-smartphone-PHCT5AP"
+        },
+        {
+            "filename": "0O1A3211.jpeg",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/0O1A3211-600x400.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/block-about.json",
+                    "name": "Block - About"
+                },
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                }
+            ],
+            "filesize": 148350,
+            "dimensions": [
+                1600,
+                1067
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/concentrated-students-standing-and-writing-on-PNMFXXE"
+        },
+        {
+            "filename": "3.jpeg",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/3-600x400.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page - Gallery"
+                },
+                {
+                    "source": "templates\/block-gallery.json",
+                    "name": "Block - Gallery"
+                }
+            ],
+            "filesize": 114614,
+            "dimensions": [
+                2038,
+                1359
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/instruction-mobile-interface-illustrations-VK567GZ"
+        },
+        {
+            "filename": "5.jpeg",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/5-600x400.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page - Gallery"
+                },
+                {
+                    "source": "templates\/block-gallery.json",
+                    "name": "Block - Gallery"
+                }
+            ],
+            "filesize": 46378,
+            "dimensions": [
+                2038,
+                1359
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/to-do-mobile-app-template-F53CTE"
+        },
+        {
+            "filename": "2.jpeg",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/2-600x400.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page - Gallery"
+                },
+                {
+                    "source": "templates\/block-gallery.json",
+                    "name": "Block - Gallery"
+                }
+            ],
+            "filesize": 79750,
+            "dimensions": [
+                2038,
+                1359
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/login-mobile-interface-illustrations-Z63MU5E"
+        },
+        {
+            "filename": "6.jpeg",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/6-600x400.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page - Gallery"
+                },
+                {
+                    "source": "templates\/block-gallery.json",
+                    "name": "Block - Gallery"
+                }
+            ],
+            "filesize": 83920,
+            "dimensions": [
+                2038,
+                1359
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/wallet-mobile-ui-th-ZPN4NU"
+        },
+        {
+            "filename": "1.jpeg",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/1-600x400.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page - Gallery"
+                },
+                {
+                    "source": "templates\/block-gallery.json",
+                    "name": "Block - Gallery"
+                }
+            ],
+            "filesize": 82708,
+            "dimensions": [
+                2038,
+                1359
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/shop-mobile-interface-illustrations-RG24P5J"
+        },
+        {
+            "filename": "4.jpeg",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/4-600x400.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page - Gallery"
+                },
+                {
+                    "source": "templates\/block-gallery.json",
+                    "name": "Block - Gallery"
+                }
+            ],
+            "filesize": 97549,
+            "dimensions": [
+                2038,
+                1359
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/news-mobile-interface-illustrations-YHMPXF4"
+        },
+        {
+            "filename": "logo-1.png",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-logos.json",
+                    "name": "Block - Logos"
+                }
+            ],
+            "filesize": 3930,
+            "dimensions": [
+                93,
+                40
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/logo-1.png"
+        },
+        {
+            "filename": "logo-6.png",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/logo-6.png",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-logos.json",
+                    "name": "Block - Logos"
+                }
+            ],
+            "filesize": 3753,
+            "dimensions": [
+                103,
+                38
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/logo-6.png"
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-logos.json",
+                    "name": "Block - Logos"
+                }
+            ],
+            "filesize": 3021,
+            "dimensions": [
+                75,
+                38
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/logo-3.png"
+        },
+        {
+            "filename": "logo-4.png",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-logos.json",
+                    "name": "Block - Logos"
+                }
+            ],
+            "filesize": 6176,
+            "dimensions": [
+                143,
+                33
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/logo-4.png"
+        },
+        {
+            "filename": "logo-2.png",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-logos.json",
+                    "name": "Block - Logos"
+                }
+            ],
+            "filesize": 4373,
+            "dimensions": [
+                125,
+                33
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/logo-2.png"
+        },
+        {
+            "filename": "logo-5.png",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page - About"
+                },
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-logos.json",
+                    "name": "Block - Logos"
+                }
+            ],
+            "filesize": 4636,
+            "dimensions": [
+                104,
+                38
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/logo-5.png"
+        },
+        {
+            "filename": "app-hero@2x-min.png",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/app-hero@2x-min-600x569.png",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-hero.json",
+                    "name": "Block - Hero"
+                }
+            ],
+            "filesize": 142024,
+            "dimensions": [
+                1326,
+                1258
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/app-hero@2x-min.png"
+        },
+        {
+            "filename": "overview-1-min.png",
+            "thumbnail_url": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/overview-1-min-600x626.png",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-feature-large-1.json",
+                    "name": "Block - Feature Large 1"
+                }
+            ],
+            "filesize": 55560,
+            "dimensions": [
+                1074,
+                1120
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/pxltheme.com\/templatekit\/saasy\/wp-content\/uploads\/2020\/03\/overview-1-min.png"
+        }
+    ]
+}

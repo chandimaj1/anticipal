@@ -1,0 +1,8 @@
+2021-08-11T08:07:02+00:00 CRITICAL Uncaught TypeError: Return value of WCPay\MultiCurrency\MultiCurrency::get_default_currency() must be an instance of WCPay\MultiCurrency\Currency, null returned in /mnt/data/home/607200.cloudwaysapps.com/sywvhfcekf/public_html/wp-content/plugins/woocommerce-payments/includes/multi-currency/MultiCurrency.php:499
+Stack trace:
+#0 /mnt/data/home/607200.cloudwaysapps.com/sywvhfcekf/public_html/wp-content/plugins/woocommerce-payments/includes/multi-currency/Compatibility.php(299): WCPay\MultiCurrency\MultiCurrency->get_default_currency()
+#1 /mnt/data/home/607200.cloudwaysapps.com/sywvhfcekf/public_html/wp-includes/class-wp-hook.php(305): WCPay\MultiCurrency\Compatibility->convert_order_prices(Array)
+#2 /mnt/data/home/607200.cloudwaysapps.com/sywvhfcekf/public_html/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#3 /mnt/data/home/607200.cloudwaysapps.com/sywvhfcekf/public_html/wp-content/plugins/woocommerce/includes/class-wc-order-query.php(87): apply_filters('woocommerce_ord...', Array, Array)
+#4  in /mnt/data/home/607200.cloudwaysapps.com/sywvhfcekf/public_html/wp-content/plugins/woocommerce-payments/includes/multi-currency/MultiCurrency.php on line 499
+

@@ -1,0 +1,38 @@
+/**
+    Quest Details (Content)
+*/
+.single-quest-content h1,
+.single-quest-content h2{
+    margin-top: 10px;
+    margin-bottom: 18px;
+}
+.single-quest-content h3,
+.single-quest-content h4,
+.single-quest-content h5,
+.single-quest-content h6{
+    margin-bottom: 10px;
+}
+.single-quest-content p{
+    margin-bottom: 25px;
+}
+
+.single-quest-content figure{
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.user-status.request-small .user-status-title, .user-status.request .user-status-title{
+    margin-top: 12px;
+}
+
+.quest-details-check-list-items{
+    max-height: 300px;
+}
+
+
+/* Hide forminator & gamipress-submissions submit buttons*/
+#gamipress-submission-form-submission-form .forminator-button-submit,
+#gamipress-submission-button
+{
+    display: none !important;
+}

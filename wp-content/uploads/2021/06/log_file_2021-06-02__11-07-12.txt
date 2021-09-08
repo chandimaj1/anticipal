@@ -1,0 +1,42 @@
+
+---Downloaded files---
+The import files for: Cartzilla - Marketplace were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = https://test.supersodo.com
+Data file = /home/642110.cloudwaysapps.com/wuaspusprx/public_html/wp-content/themes/cartzilla/assets/dummy-data/marketplace/dummy-data.xml
+Widget file = /home/642110.cloudwaysapps.com/wuaspusprx/public_html/wp-content/themes/cartzilla/assets/dummy-data/marketplace/widgets.wie
+Customizer file = /home/642110.cloudwaysapps.com/wuaspusprx/public_html/wp-content/themes/cartzilla/assets/dummy-data/marketplace/customizer.dat
+Redux files:
+not defined!
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+(Cartzilla) Blog Categories - Blog categories - Imported
+(Cartzilla) Recent Posts - Trending posts - Imported
+Tag Cloud - Popular Tags - Imported
+Custom HTML - No Title - Imported
+
+Shop Sidebar : 
+
+(Cartzilla) Product Categories - Categories - Imported
+
+Footer Column 1 : 
+
+Navigation Menu - Categories - Imported
+
+Footer Column 2 : 
+
+Navigation Menu - For members - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

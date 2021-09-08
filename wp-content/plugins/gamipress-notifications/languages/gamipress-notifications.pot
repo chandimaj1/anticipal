@@ -1,0 +1,638 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: GamiPress Notifications\n"
+"Report-Msgid-Bugs-To: https://gamipress.com/\n"
+"POT-Creation-Date: 2020-10-08 09:55+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: GamiPress (https://gamipress.com/)\n"
+"Language-Team: GamiPress <contact@gamipress.com>\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: libraries\n"
+
+#: gamipress-notifications.php:124
+msgid "Congratulations {user}! You unlocked the {achievement_type}:"
+msgstr ""
+
+#: gamipress-notifications.php:126
+msgid "You completed a step of the {achievement_type} {achievement_title}:"
+msgstr ""
+
+#: gamipress-notifications.php:128
+msgid "You need to complete the following steps to completely unlock this {achievement_type}:"
+msgstr ""
+
+#: gamipress-notifications.php:131
+msgid "You earned {points} {points_label} for completing:"
+msgstr ""
+
+#: gamipress-notifications.php:133 gamipress-notifications.php:137
+msgid "Your have now a total of {points_balance} {points_balance_label}"
+msgstr ""
+
+#: gamipress-notifications.php:135
+msgid "You lost {points} {points_label} for:"
+msgstr ""
+
+#: gamipress-notifications.php:139
+msgid "Congratulations {user}! You reached the {rank_type}:"
+msgstr ""
+
+#: gamipress-notifications.php:141
+msgid "You completed a requirement of the {rank_type} {rank_title}:"
+msgstr ""
+
+#: gamipress-notifications.php:143
+msgid "You need to complete the following requirements to completely unlock this {rank_type}:"
+msgstr ""
+
+#: gamipress-notifications.php:188
+#, php-format
+msgid "GamiPress - Notifications requires %s (%s or higher) in order to work. Please install and activate them."
+msgstr ""
+
+#: includes/admin.php:88 includes/admin.php:475
+msgid "Notifications"
+msgstr ""
+
+#: includes/admin.php:94
+msgid "Position"
+msgstr ""
+
+#: includes/admin.php:95
+msgid "Check the position where you want to place the notifications."
+msgstr ""
+
+#: includes/admin.php:111
+msgid "Life"
+msgstr ""
+
+#: includes/admin.php:112
+msgid "Number of days an user notification is saved before being automatically deleted."
+msgstr ""
+
+#: includes/admin.php:120
+msgid "Disable live checks"
+msgstr ""
+
+#: includes/admin.php:121
+msgid "Check this option to completely disable live checks. This will disable the live notification feature but also will greatly reduce server resources consumption."
+msgstr ""
+
+#: includes/admin.php:126
+msgid "Notifications check delay"
+msgstr ""
+
+#: includes/admin.php:127
+msgid "Delay in milliseconds between new notifications checks (1,000 milliseconds = 1 second). By default, 10,000 milliseconds (10 seconds)."
+msgstr ""
+
+#: includes/admin.php:128
+msgid "<strong>Important:</strong> Lower delay will increase server resources cosumption since new notifications checks will happen early, keep the 10,000 milliseconds (10 seconds) mark as the minimum recommended delay."
+msgstr ""
+
+#: includes/admin.php:136
+msgid "Attempts to cancel live checks"
+msgstr ""
+
+#: includes/admin.php:137
+msgid "Number of attempts without new notifications to cancel live checks. Set to 0 to disable this feature."
+msgstr ""
+
+#: includes/admin.php:138
+msgid "This option will cancel live checks if a user stays a long time on the same page without earn anything, for example, if is watching a large video, reading a large document or user keeps the website open but does not interact with it, then this option will stop live checks for this user until the moment the user comes back to the page."
+msgstr ""
+
+#: includes/admin.php:146
+msgid "Click to hide"
+msgstr ""
+
+#: includes/admin.php:147
+msgid "Check this option to allow user hide the notification clicking on it."
+msgstr ""
+
+#: includes/admin.php:152
+msgid "Auto-hide"
+msgstr ""
+
+#: includes/admin.php:153
+msgid "Check this option to automatically hide the notification after the configured delay."
+msgstr ""
+
+#: includes/admin.php:158
+msgid "Auto-hide Delay"
+msgstr ""
+
+#: includes/admin.php:159
+msgid "Delay in milliseconds to automatically hide a notification (1,000 milliseconds = 1 second)."
+msgstr ""
+
+#: includes/admin.php:167
+msgid "Show notification sound effect"
+msgstr ""
+
+#: includes/admin.php:168
+msgid "Upload, choose or paste the URL of the notification sound to play when a notification gets displayed."
+msgstr ""
+
+#: includes/admin.php:171 includes/admin.php:180
+msgid "Add or Upload Audio"
+msgstr ""
+
+#: includes/admin.php:176
+msgid "Hide notification sound effect"
+msgstr ""
+
+#: includes/admin.php:177
+msgid "Upload, choose or paste the URL of the notification sound to play when a notification gets hidden (by the user or automatically)."
+msgstr ""
+
+#: includes/admin.php:185
+msgid "Width"
+msgstr ""
+
+#: includes/admin.php:186
+msgid "Set the notification maximum width in pixels. A recommended size could be a value between 300 and 600. Leave blank for no maximum."
+msgstr ""
+
+#: includes/admin.php:187
+msgid "<strong>Important:</strong> On mobile screens notifications width will be adapted automatically to the screen size."
+msgstr ""
+
+#: includes/admin.php:195
+msgid "Background Color"
+msgstr ""
+
+#: includes/admin.php:196
+msgid "Set the notification background color."
+msgstr ""
+
+#: includes/admin.php:201
+msgid "Title Color"
+msgstr ""
+
+#: includes/admin.php:202
+msgid "Set the text color of the notification title."
+msgstr ""
+
+#: includes/admin.php:207
+msgid "Text Color"
+msgstr ""
+
+#: includes/admin.php:208
+msgid "Set the text color of the notification content."
+msgstr ""
+
+#: includes/admin.php:213
+msgid "Link Color"
+msgstr ""
+
+#: includes/admin.php:214
+msgid "Set the text color of the notification link."
+msgstr ""
+
+#: includes/admin.php:222
+msgid "Disable achievements completion notifications"
+msgstr ""
+
+#: includes/admin.php:223
+msgid "Check this option to do not notify to users about new achievements."
+msgstr ""
+
+#: includes/admin.php:228
+msgid "Achievement Title Pattern"
+msgstr ""
+
+#: includes/admin.php:229
+msgid "New achievement notification title pattern (leave blank to hide it). For a list available tags, check next field description."
+msgstr ""
+
+#: includes/admin.php:233
+msgid "Achievement Content Pattern"
+msgstr ""
+
+#: includes/admin.php:234
+msgid "New achievement notification content pattern to be shown after the achievement (leave blank to hide it). Available tags:"
+msgstr ""
+
+#: includes/admin.php:239
+msgid "Achievement Output Configuration"
+msgstr ""
+
+#: includes/admin.php:240
+msgid "Configure how the achievement automatic output will be displayed"
+msgstr ""
+
+#: includes/admin.php:247
+msgid "Disable steps completion notifications"
+msgstr ""
+
+#: includes/admin.php:248
+msgid "Check this option to do not notify to users about new completed steps."
+msgstr ""
+
+#: includes/admin.php:253
+msgid "Step Title Pattern"
+msgstr ""
+
+#: includes/admin.php:254
+msgid "New step completed notification title pattern (leave blank to hide it). For a list available tags, check next field description."
+msgstr ""
+
+#: includes/admin.php:258
+msgid "Step Content Pattern"
+msgstr ""
+
+#: includes/admin.php:259
+msgid "New step completed notification content pattern. Available tags:"
+msgstr ""
+
+#: includes/admin.php:267
+msgid "Disable points award notifications"
+msgstr ""
+
+#: includes/admin.php:268
+msgid "Check this option to do not notify to users about new points awards."
+msgstr ""
+
+#: includes/admin.php:273
+msgid "Points Award Title Pattern"
+msgstr ""
+
+#: includes/admin.php:274
+msgid "New points award notification title pattern (leave blank to hide it). For a list available tags, check next field description."
+msgstr ""
+
+#: includes/admin.php:278 includes/admin.php:298
+msgid "Points Award Content Pattern"
+msgstr ""
+
+#: includes/admin.php:279
+msgid "New points award notification content pattern. Available tags:"
+msgstr ""
+
+#: includes/admin.php:287
+msgid "Disable points deduction notifications"
+msgstr ""
+
+#: includes/admin.php:288
+msgid "Check this option to do not notify to users about new points deduction."
+msgstr ""
+
+#: includes/admin.php:293
+msgid "Points Deduct Title Pattern"
+msgstr ""
+
+#: includes/admin.php:294
+msgid "New points deduction notification title pattern (leave blank to hide it). For a list available tags, check next field description."
+msgstr ""
+
+#: includes/admin.php:299
+msgid "New points deduction notification content pattern. Available tags:"
+msgstr ""
+
+#: includes/admin.php:307
+msgid "Disable rank reached notifications"
+msgstr ""
+
+#: includes/admin.php:308
+msgid "Check this option to do not notify to users about new rank reached."
+msgstr ""
+
+#: includes/admin.php:313
+msgid "Rank Title Pattern"
+msgstr ""
+
+#: includes/admin.php:314
+msgid "New rank notification title pattern (leave blank to hide it). For a list available tags, check next field description."
+msgstr ""
+
+#: includes/admin.php:318
+msgid "Rank Content Pattern"
+msgstr ""
+
+#: includes/admin.php:319
+msgid "New rank notification content pattern to be shown after the rank (leave blank to hide it). Available tags:"
+msgstr ""
+
+#: includes/admin.php:324
+msgid "Rank Output Configuration"
+msgstr ""
+
+#: includes/admin.php:325
+msgid "Configure how the rank automatic output will be displayed"
+msgstr ""
+
+#: includes/admin.php:332
+msgid "Disable rank requirements completion notifications"
+msgstr ""
+
+#: includes/admin.php:333
+msgid "Check this option to do not notify to users about new completed rank requirements."
+msgstr ""
+
+#: includes/admin.php:338
+msgid "Rank Requirement Title Pattern"
+msgstr ""
+
+#: includes/admin.php:339
+msgid "New rank requirement completed notification title pattern (leave blank to hide it). For a list available tags, check next field description."
+msgstr ""
+
+#: includes/admin.php:343
+msgid "Rank Requirement Content Pattern"
+msgstr ""
+
+#: includes/admin.php:344
+msgid "New rank requirement completed notification content pattern. Available tags:"
+msgstr ""
+
+#: includes/admin.php:353
+msgid "Notification"
+msgstr ""
+
+#: includes/admin.php:373
+msgid "Achievements"
+msgstr ""
+
+#: includes/admin.php:383
+msgid "Steps"
+msgstr ""
+
+#: includes/admin.php:392
+msgid "Points Awards"
+msgstr ""
+
+#: includes/admin.php:401
+msgid "Points Deducts"
+msgstr ""
+
+#: includes/admin.php:410
+msgid "Ranks"
+msgstr ""
+
+#: includes/admin.php:420
+msgid "Rank Requirements"
+msgstr ""
+
+#: includes/admin.php:448
+msgid "GamiPress Notifications"
+msgstr ""
+
+#: includes/admin.php:451
+msgid "License"
+msgstr ""
+
+#: includes/template-functions.php:41
+msgid "Awarded user display name."
+msgstr ""
+
+#: includes/template-functions.php:42
+msgid "Awarded user first name."
+msgstr ""
+
+#: includes/template-functions.php:43
+msgid "Awarded user last name."
+msgstr ""
+
+#: includes/template-functions.php:44
+msgid "Awarded user ID (useful for shortcodes that user ID can be passed as attribute)."
+msgstr ""
+
+#: includes/template-functions.php:93 includes/template-functions.php:233
+msgid "The achievement ID (useful for shortcodes that achievement ID can be passed as attribute)."
+msgstr ""
+
+#: includes/template-functions.php:94
+msgid "The achievement title."
+msgstr ""
+
+#: includes/template-functions.php:95
+msgid "URL to the achievement."
+msgstr ""
+
+#: includes/template-functions.php:96
+msgid "Link to the achievement with the achievement title as text."
+msgstr ""
+
+#: includes/template-functions.php:97
+msgid "The achievement featured image."
+msgstr ""
+
+#: includes/template-functions.php:98
+msgid "The achievement excerpt."
+msgstr ""
+
+#: includes/template-functions.php:99
+msgid "The achievement content."
+msgstr ""
+
+#: includes/template-functions.php:100
+msgid "The achievement steps."
+msgstr ""
+
+#: includes/template-functions.php:101
+msgid "The achievement type singular."
+msgstr ""
+
+#: includes/template-functions.php:102
+msgid "The date user has earned the achievement."
+msgstr ""
+
+#: includes/template-functions.php:103
+msgid "The achievement congratulations text."
+msgstr ""
+
+#: includes/template-functions.php:231
+msgid "The step label."
+msgstr ""
+
+#: includes/template-functions.php:232
+msgid "The date user has earned the step."
+msgstr ""
+
+#: includes/template-functions.php:234
+msgid "The step achievement title."
+msgstr ""
+
+#: includes/template-functions.php:235
+msgid "URL to the step achievement."
+msgstr ""
+
+#: includes/template-functions.php:236
+msgid "Link to the step achievement with the achievement title as text."
+msgstr ""
+
+#: includes/template-functions.php:237
+msgid "The step achievement featured image."
+msgstr ""
+
+#: includes/template-functions.php:238
+msgid "The step achievement excerpt."
+msgstr ""
+
+#: includes/template-functions.php:239
+msgid "The step achievement content."
+msgstr ""
+
+#: includes/template-functions.php:240
+msgid "The step achievement list of steps."
+msgstr ""
+
+#: includes/template-functions.php:241
+msgid "The step achievement type singular."
+msgstr ""
+
+#: includes/template-functions.php:242
+msgid "The step achievement congratulations text."
+msgstr ""
+
+#: includes/template-functions.php:329
+msgid "The points award label."
+msgstr ""
+
+#: includes/template-functions.php:330
+msgid "The amount of points earned."
+msgstr ""
+
+#: includes/template-functions.php:331
+msgid "The points award points type. Singular or plural is based on the amount of points earned."
+msgstr ""
+
+#: includes/template-functions.php:332 includes/template-functions.php:424
+msgid "The full amount of points user has been earned of this points type."
+msgstr ""
+
+#: includes/template-functions.php:333 includes/template-functions.php:425
+msgid "The user's points amount label. Singular or plural is based on the current user's points amount."
+msgstr ""
+
+#: includes/template-functions.php:334 includes/template-functions.php:426
+msgid "The points type featured image."
+msgstr ""
+
+#: includes/template-functions.php:335
+msgid "The date user has earned the points award."
+msgstr ""
+
+#: includes/template-functions.php:336
+msgid "(Deprecated user {points_label} tag instead) The points award points type. Singular or plural is based on the amount of points earned."
+msgstr ""
+
+#: includes/template-functions.php:421
+msgid "The points deduct label."
+msgstr ""
+
+#: includes/template-functions.php:422
+msgid "The amount of points deducted."
+msgstr ""
+
+#: includes/template-functions.php:423
+msgid "The points deduct points type label. Singular or plural is based on the amount of points earned."
+msgstr ""
+
+#: includes/template-functions.php:427
+msgid "The date user has deducted the points."
+msgstr ""
+
+#: includes/template-functions.php:428
+msgid "(Deprecated use {points_label} tag instead) The points deduct points type. Singular or plural is based on the amount of points earned."
+msgstr ""
+
+#: includes/template-functions.php:513 includes/template-functions.php:650
+msgid "The rank ID (useful for shortcodes that rank ID can be passed as attribute)."
+msgstr ""
+
+#: includes/template-functions.php:514
+msgid "The rank title."
+msgstr ""
+
+#: includes/template-functions.php:515
+msgid "URL to the rank."
+msgstr ""
+
+#: includes/template-functions.php:516
+msgid "Link to the rank with the rank title as text."
+msgstr ""
+
+#: includes/template-functions.php:517
+msgid "The rank featured image."
+msgstr ""
+
+#: includes/template-functions.php:518
+msgid "The rank excerpt."
+msgstr ""
+
+#: includes/template-functions.php:519
+msgid "The rank content."
+msgstr ""
+
+#: includes/template-functions.php:520
+msgid "The rank requirements."
+msgstr ""
+
+#: includes/template-functions.php:521
+msgid "The rank type singular."
+msgstr ""
+
+#: includes/template-functions.php:522
+msgid "The date user has reached the rank."
+msgstr ""
+
+#: includes/template-functions.php:523
+msgid "The rank congratulations text."
+msgstr ""
+
+#: includes/template-functions.php:648
+msgid "The rank requirement label."
+msgstr ""
+
+#: includes/template-functions.php:649
+msgid "The date user has earned the rank requirement."
+msgstr ""
+
+#: includes/template-functions.php:651
+msgid "The requirement rank title."
+msgstr ""
+
+#: includes/template-functions.php:652
+msgid "URL to the requirement rank."
+msgstr ""
+
+#: includes/template-functions.php:653
+msgid "Link to the requirement rank with the rank title as text."
+msgstr ""
+
+#: includes/template-functions.php:654
+msgid "The requirement rank featured image."
+msgstr ""
+
+#: includes/template-functions.php:655
+msgid "The requirement rank excerpt."
+msgstr ""
+
+#: includes/template-functions.php:656
+msgid "The requirement rank content."
+msgstr ""
+
+#: includes/template-functions.php:657
+msgid "The requirement rank list of requirements."
+msgstr ""
+
+#: includes/template-functions.php:658
+msgid "The requirement rank type singular."
+msgstr ""
+
+#: includes/template-functions.php:659
+msgid "The requirement rank congratulations text."
+msgstr ""

@@ -1,0 +1,35 @@
+{
+  "name": "publishpress/publishpress-permissions-pro",
+  "type": "wordpress-plugin",
+  "description": "WordPress plugin: control permissions for publishing workflow and presentation",
+  "homepage": "https://publishpress.com/",
+  "license": "GPL-2",
+  "authors": [
+    {
+      "name": "PublishPress",
+      "email": "help@publishpress.com"
+    },
+    {
+      "name": "Kevin Behrens",
+      "email": "kevin@agapetry.net",
+      "homepage": "https://agapetry.net",
+      "role": "Lead Developer"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/publishpress/PublishPress-Permissions"
+    }
+  ],
+  "config": {
+    "preferred-install": "dist"
+  },
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.6.20",
+    "pimple/pimple": "~3.0",
+    "alledia/wordpress-edd-license-integration": ">=2.3.2",
+    "publishpress/publishpress-permissions": ">=3.5.7"
+  }
+}
